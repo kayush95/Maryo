@@ -1,5 +1,5 @@
 # Maryo
-A basic arcade game involving two character: *Maryo* and *Dragon*. 
+A basic arcade game involving two characters: *Maryo* and *Dragon*. 
 
 Requires ```pygame```.
 
